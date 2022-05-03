@@ -1,3 +1,5 @@
+questions pulled off of local JSON file before fetchAPI
+
 [
   {
     "question": "Inside which HTML element do we put the JavaScript??",
