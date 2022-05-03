@@ -1,12 +1,10 @@
 # Quiz-App
 
-This quiz app is my first webdev project as I am learning how to code in several languages to hopefully become a developer. 
-
 written in html, css, and js
 
-it was developed all on a local server and fetches highscores and questions from local storage and a JSON file
+it was developed all on a local server and fetches highscores and questions from local storage / JSON file
 
-The steps I took into creating this program (Through a Udemy course) are listed below
+Steps in creating from Udemy Course
 
 1. Creat home page and application styling
 2. Create and style the home page 
