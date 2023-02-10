@@ -1,8 +1,8 @@
 # Quiz-App
 
-written in html, css, and js
+First coding project that wasn't hello world or making a C# menu list in the terminal.
 
-it was developed all on a local server and fetches highscores and questions from local storage / JSON file
+fetches highscores from local storage and questions from a trivia website.
 
 Steps in creating from Udemy Course
 
